@@ -1,0 +1,17 @@
+{
+ "name": "me",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "8713b423-c7ad-f52c-b523-0bb5011724ac",
+   "pageId": "8713b423-c7ad-f52c-b523-0bb5011724ac",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "bc72b76d-5af9-2567-8776-412b3d3110b0",
+   "pageId": "bc72b76d-5af9-2567-8776-412b3d3110b0",
+   "type": "page"
+  }
+ ]
+}
